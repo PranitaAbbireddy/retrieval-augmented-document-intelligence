@@ -1,4 +1,4 @@
-# DRetrieval-Augmented Document Intelligence
+# Retrieval-Augmented Document Intelligence
 
 A highly efficient, strictly grounded Retrieval-Augmented Generation (RAG) application optimized for local CPU inference and zero-cost operation.
 
